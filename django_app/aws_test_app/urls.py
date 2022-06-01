@@ -5,3 +5,4 @@ app_name = 'polls'
 urlpatterns = [
     path('', views.index, name='index'),
 ]
+
